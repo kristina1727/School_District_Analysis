@@ -7,22 +7,22 @@ To provide the districst with a snapshot of their key metrics which include; the
 - How is the district summary affected?
 As you can see by the images below there changes in the distrcit summaries are very minor when removing the Thomas High School 9th grade reading and math scores. The % Overall passing column had the largest change with a decrease of only 3/10th of a percent. 
   
-  Original
+**Original**
  
- ![Original_District_Summary](https://user-images.githubusercontent.com/88597956/137641977-68124cf4-e4e4-42ba-8097-a2a4369ae92b.PNG)
+![Original_District_Summary](https://user-images.githubusercontent.com/88597956/137641977-68124cf4-e4e4-42ba-8097-a2a4369ae92b.PNG)
 
-  Revised
+**Revised**
   
-  ![Revised_District _Summary](https://user-images.githubusercontent.com/88597956/137641988-12e78609-2fa1-45e6-9fd7-0f3d6aba99b8.PNG)
+![Revised_District _Summary](https://user-images.githubusercontent.com/88597956/137641988-12e78609-2fa1-45e6-9fd7-0f3d6aba99b8.PNG)
 
 - How is the school summary affected?
 Similar to the district analysis, the school summary was only minory affected when removing the 9th grade scores from Thomas High School. As shown below the largest decrease was only 3/10th of a percent. However, both the % Passing Reading and the % Overall Passing both decreased by 3/10th.
 
-Original
+**Original**
 
 ![Original_School_Summary](https://user-images.githubusercontent.com/88597956/137642411-5955feb4-05a3-4d50-8aff-d43ea59f8d36.PNG)
 
-Revised
+**Revised**
 
 ![Revised_School_Summary](https://user-images.githubusercontent.com/88597956/137642414-1520cb1c-83b7-45f3-be2d-1832d5700dd1.PNG)
 
